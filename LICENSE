@@ -3,6 +3,9 @@ MIT License
 Copyright (c) 2026 Affaan Mustafa
 Portions Copyright (c) 2026 jelitz (modifications: proactive behavior contract, install paths)
 
+Original work: https://github.com/affaan-m/ECC (skills/strategic-compact/), MIT licensed.
+This repository is an adapted, standalone repackaging of that skill.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
